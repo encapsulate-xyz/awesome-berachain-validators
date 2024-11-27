@@ -6,6 +6,7 @@
 [Monitoring](#monitoring)  
 [Proof of Liquidity](#pol)  
 [Data](#data)  
+[Tooling](#tooling)  
 [Snapshots](#snapshots)  
 [FAQ](#faq)  
 
@@ -27,6 +28,9 @@
 * [BGTscan](https://bgtscan.com/) - BGT rewards dashboard
 * [Nodes map](https://services.tienthuattoan.com/testnet/berachain-v2/map) - Berachain v2 nodes map
 * [B-Harvest dashboard](https://bera-dashboard.bharvest.io/) - Validators data by B-Harvest
+
+## Tooling
+* [berachain-ansible-playbook](https://github.com/encapsulate-xyz/berachain-ansible) - An Ansible playbook for automating the setup and management of execution and consensus clients, ensuring secure and efficient node deployment.
 
 ## Snapshots
 
